@@ -3,13 +3,14 @@ UAT打包：
 	第一步：清单放在/app/pay1/payopr/update
 	第二步：update下执行 sh pack_ver.sh 清单名
 	第三步：在MDV4里下载包
+2号添加：第一次修改
 
 生产打包：
 	19机器
 	第一步：直接上传lst清单
 	第二步：直接下执行 sh pack_ver.sh 实例名 清单名
 	第三步：在verdown里下载包
-
+2号添加：第一次修改
 特殊包：
 	218机器
 	第一步：/app/pay1/payopr/update/ver上传解压包
@@ -18,3 +19,4 @@ UAT打包：
 	第四步：在/app/pay1/payopr/update/下放入lst清单
 	第五步：在/app/pay1/payopr/update/下执行sh pack_ver_cs.sh 清单名
 	第六步：在MDV4里下载更新后的包
+2号添加：第一次修改
